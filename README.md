@@ -7,6 +7,10 @@ My key areas of interest include statistical learning, econometrics, economic fo
 
 During the semester, I work as a Peer Advisor and Tutor for UConn's Department of Economics. As a Peer Advisor, I provide academic guidance on course planning, double majors and minors, add/drop periods, transfer credits, and general questions about UConn's B.A. and B.S. Economics degrees. Further, as a Tutor, I assist students with work from the Principles and Intermediate Economics classes, helping them develop a deeper understanding of economic concepts and improving their academic performance. I truly enjoy being involved in the department and supporting my peers in their academic journeys.
 
+In the Fall 2024 semester I intered with UConn's Field Hockey team as their Video Analyst and Student Manager, through the Sports Statistical Learning Internship. This experience was incredibly valuable in expanding my knowledge of sports analysis and the various methods used to evaluate performance and strategy. At the end of the semester I compiled a report from the season in which I was able to present. 
+
+During Summer 2024 I worked at The Cigna Group as an Underwriting and Analytics Intern. I had the opportunity to work with the Pharmacy Underwriting team within Evernorth Health Services. Over the course of 10 weeks, I gained valuable experience in understanding the role of Pharmacy Benefit Managers (PBM) and how they navigate complex healthcare challenges. It was a valuable experience, and I had the opportunity to work on meaningful projects that provided insightful knowledge of the world of PBMs.
+
 ## Data Science Projects:
 
 - [Data Visualization with Plotnine](https://github.com/jcmazzola/Visualization_with_Plotnine.git)
