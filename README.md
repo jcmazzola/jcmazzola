@@ -5,7 +5,7 @@ I am currently a senior at the University of Connecticut pursuing a double major
 
 My key areas of interest include statistical learning, econometrics, economic forecasting, and financial analysis. I’m especially drawn to industries where utilizing these technologies can improve outcomes, such as healthcare, technology, and finance. One of the main reasons I chose this field is the ever-changing nature of it. I enjoy learning new things and continually expanding my skills to stay ahead in a dynamic field.
 
-During the semester, I serve as a Peer Advisor and Tutor for UConn's Department of Economics. As a Peer Advisor, I provide academic guidance on course planning, double majors and minors, add/drop periods, transfer credits, and general questions about UConn's B.A. and B.S. Economics degrees. Further, as a Tutor, I assist students with work from the Principles and Intermediate Economics classes, helping them develop a deeper understanding of economic concepts and improving their academic performance. I truly enjoy being involved in the department and supporting my peers in their academic journeys.
+During the semester, I work as a Peer Advisor and Tutor for UConn's Department of Economics. As a Peer Advisor, I provide academic guidance on course planning, double majors and minors, add/drop periods, transfer credits, and general questions about UConn's B.A. and B.S. Economics degrees. Further, as a Tutor, I assist students with work from the Principles and Intermediate Economics classes, helping them develop a deeper understanding of economic concepts and improving their academic performance. I truly enjoy being involved in the department and supporting my peers in their academic journeys.
 
 ## Data Science Projects:
 
