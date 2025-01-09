@@ -22,4 +22,4 @@ During Summer 2024 I worked at The Cigna Group as an Underwriting and Analytics 
 
 ## Portfolio
 
-Take a look at my full portfolio [here]()!
+Take a look at my full portfolio [here](https://jcmazzola.github.io/)!
