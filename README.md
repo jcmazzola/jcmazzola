@@ -19,6 +19,7 @@ During Summer 2024 I worked at The Cigna Group as an Underwriting and Analytics 
 
 - [Data Visualization with Plotnine](https://github.com/jcmazzola/Visualization_with_Plotnine.git)
 - [Field Hockey APC Analysis](https://github.com/jcmazzola/Field_Hockey_APC_analysis.git)
+- [NASDAQ Composite Index Prediction](https://github.com/jcmazzola/NASDAQ_Prediction.git)
 
 ## Portfolio
 
